@@ -5,7 +5,7 @@
                 jdk and IDE OR Editor of choice(eclipse, vscode , netbeans ...)
                 for this project we will use eclipse and vscode
          # Online platform 
-                 there are sevrale online compilers that support java but in this project we introduce jdoodle
+                 there are sevral online compilers that support java but in this project we will only introduce jdoodle
                     
               
 ### getting started with java
