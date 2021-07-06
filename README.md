@@ -1,10 +1,10 @@
 # projectJava outline
 ### Getting Ready for Java
    #### development platform and Installations
-         # windows 
+        # Windows 
                 jdk and IDE OR Editor of choice(eclipse, vscode , netbeans ...)
                 for this project we will use eclipse and vscode
-         # online platform 
+         # Online platform 
                  there are sevrale online compilers that support java but in this project we introduce jdoodle
                     
               
