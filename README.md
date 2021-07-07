@@ -12,7 +12,7 @@
         
 ## Getting Ready for Java
       
-   #### development platform and Installations
+   #### Setting Up the Development Environment
         # local 
              # requirment 
                  jdk and IDE OR Editor of choice(eclipse, vscode , netbeans ...)
@@ -25,6 +25,11 @@
                        this will install both Jdk and vscode on your system   
                
                        Existing users will have to install jdk if they haven't?
+                             1. Open www.oracle.com/technetwork/java/javase/downloads/index.html in web browser.
+                             2. Click the Download JDK button.
+                             3. Follow the instructions provided by the web site.
+                             4. Run the installer and accept any defaults.
+                       
                        
                    # Extensions 
                         Java Extension Pack  - vscjava.vscode-java-pack
@@ -36,6 +41,7 @@
                             5) install it and you are ready to create your first Java project 
 
 
+                #Eclipse
                 
                 
          # Online platform 
@@ -46,6 +52,22 @@
       # creating a new project
       # creating your first java app (Hello world)
       # running your app
-### explainig the code and structue 
-### explaining the basics 
-### ending it with a project 
+      
+           create a folder HelloWorld 
+                  In this folder create a HelloWorld.java file
+                  Add the following code
+                      / **
+                     * Robot
+                     * /
+                     import java.util. *;
+                     public class Robot {
+                             public static void main (String [] args) {
+                                    System.out.println ("Hello World");
+                              }
+                      }
+                  To compile you code, open the explorer menu -> project java -> run
+                  -> Hello World 
+## presentation                
+     ### explainig the code and structue 
+     ### explaining the basics 
+     ### ending it with a project 
