@@ -1,5 +1,5 @@
 # introduction 
-   ##what is java
+   ##what is a Class,Access Modifiers, Constructor method, methods, getters and setters
         
 
 
@@ -15,7 +15,7 @@
               
 ### getting started with java
       # creating a new project
-      # creating your first java app (Hello world)
+      # creating your first java app (Pen)
       # running your app
 ### explainig the code and structue 
 ### explaining the basics 
