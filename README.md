@@ -87,5 +87,8 @@
          
 ## presentation                
      ### explainig the code and structue 
+          ## main class and class
      ### explaining the basics 
+          ## what is a Class, Access Modifiers, Constructor method, methods, getters and setters
      ### ending it with a project 
+          ## virtual robot
