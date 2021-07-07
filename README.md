@@ -42,7 +42,12 @@
                             5) install it and you are ready to create your first Java project 
 
 
-                #Eclipse
+                # Eclipse
+                # How to Install Eclipse
+                      1)Download Eclipse from https://www.eclipse.org/downloads
+                      2)unzip and install
+                      
+                 
                 
                 
          # Online platform 
@@ -50,11 +55,10 @@
                     
               
 ### getting started with java
-      # creating a new project
-      # creating your first java app (Hello world)
-      # running your app
+      # Creating Your First Project in vscode
       
            create a folder HelloWorld 
+           
                   In this folder create a HelloWorld.java file
                   Add the following code
                       / **
@@ -68,6 +72,19 @@
                       }
                   To compile you code, open the explorer menu -> project java -> run
                   -> Hello World 
+                  
+         # Creating Your First Project in eclipse
+             
+              After you’ve started Eclipse, you can make a new project as follows:
+              1. From the File menu, select New, and then select Project. The New Project window appears.
+              2. In the New Project window, double-click Java Project. The New Java Project window appears
+              3. Type HelloWorld in the “Project name” field.
+              4. Click Finish.
+              
+          # Creating the Application in eclipse
+               1. Right-click the project in the Eclipse Package Explorer, choose New, and then choose Class. The New Java Class window will pop up
+               2. check the generate comment box and then click finish and your ready to go.
+         
 ## presentation                
      ### explainig the code and structue 
      ### explaining the basics 
