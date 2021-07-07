@@ -1,9 +1,9 @@
-# introduction 
+# Introduction 
    ##what is a Class,Access Modifiers, Constructor method, methods, getters and setters
         
 
 
-# projectJava outline
+# ProjectJava outline
 ### Getting Ready for Java
    #### development platform and Installations
         # Windows 
