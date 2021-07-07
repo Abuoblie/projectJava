@@ -13,9 +13,20 @@
 ## Getting Ready for Java
       
    #### development platform and Installations
-        # Windows 
-                jdk and IDE OR Editor of choice(eclipse, vscode , netbeans ...)
-                for this project we will use eclipse and vscode
+        # local 
+             # requirment 
+                 jdk and IDE OR Editor of choice(eclipse, vscode , netbeans ...)
+                 for this project we will use eclipse and vscode
+             
+             # Vscode setup for java developement
+                  # Installations
+                       for new vscode users, you can install the all-in-one coding pack for java at
+                       https://aka.ms/vscode-java-installer-win for Windows users or https://aka.ms/vscode-java-installer-macOS for mac.
+                       this will install both Jdk and vscode on your system   
+               
+                
+                
+                
          # Online platform 
                  there are sevral online compilers that support java but in this project we will only introduce jdoodle
                     
