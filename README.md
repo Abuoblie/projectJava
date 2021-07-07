@@ -1,7 +1,8 @@
 # introduction 
    ## what is java
          Java is an object-oriented programming language developed by James Gosling at Sun Microsystems, which has since been acquired by Oracle Corporation. 
-         It was released in 1995 and is currently one of the most popular Programming languages in use. It began life as a programming language designed for building stand-alone          applications and grew rapidly into other spheres such as web and mobile applications
+         It was released in 1995 and is currently one of the most popular Programming languages in use. It began life as a programming language designed for 
+         building stand-alone applications and grew rapidly into other spheres such as web and mobile applications
    ## Why Learn Java?
        There are a lot of reasons why one should learn Java
           1)	According to Oracle, over 3 billion devices run Java
