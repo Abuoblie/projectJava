@@ -5,10 +5,10 @@
          building stand-alone applications and grew rapidly into other spheres such as web and mobile applications
    ## Why Learn Java?
        There are a lot of reasons why one should learn Java
-          1)	According to Oracle, over 3 billion devices run Java
-          2)	You can develop mobile app with java and with the growing demand mobile one can be sur that the future of the language is safe
-          3)	Java has syntax and features that resemble other programming languages like C and C++. Hence leaning java becomes very easy if you have any prior programming        experience in these languages
-          4)	Java is a multi-platform language hence no adjustment needed.
+          1)According to Oracle, over 3 billion devices run Java
+          2)You can develop mobile app with java and with the growing demand mobile one can be sur that the future of the language is safe
+          3)Java has syntax and features that resemble other programming languages like C and C++. Hence leaning java becomes very easy if you have any prior programming        experience in these languages
+          4)Java is a multi-platform language hence no adjustment needed.
 
         
 ## Getting Ready for Java
