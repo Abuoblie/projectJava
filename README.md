@@ -21,10 +21,21 @@
              # Vscode setup for java developement
                   # Installations
                        for new vscode users, you can install the all-in-one coding pack for java at
-                       https://aka.ms/vscode-java-installer-win for Windows users or https://aka.ms/vscode-java-installer-macOS for mac.
+                       https://aka.ms/vscode-java-installer-win for Windows users or https://aka.ms/vscode-java-installer-mac for mac.
                        this will install both Jdk and vscode on your system   
                
-                
+                       Existing users will have to install jdk if they haven't?
+                       
+                   # Extensions 
+                        Java Extension Pack  - vscjava.vscode-java-pack
+                            to install the package
+                            1) open file menu
+                            2) choose preferences
+                            3) extension
+                            4) In the search box above, search for java expansion pack
+                            5) install it and you are ready to create your first Java project 
+
+
                 
                 
          # Online platform 
